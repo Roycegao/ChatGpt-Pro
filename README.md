@@ -19,21 +19,21 @@ Based on [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) + [Chat
 </div>
 
 ## Feature List
-- ✅ All original features from ChatGPT-Next-Web
-- ✅ Midjourney Imagine — Generate images from prompts
-- ✅ Midjourney Upscale — Upscale generated images
-- ✅ Midjourney Variation — Create image variations
-- ✅ Midjourney Describe — Describe images using AI
-- ✅ Midjourney Blend — Blend multiple images
-- ✅ Midjourney Image Prompt — Use an image as prompt base
-- ✅ Drawing progress percentage and real-time image display
-- ✅ User registration
-- ✅ Email login
-- ✅ QR code login
-- ✅ Integration with Stable Diffusion image generation
-- ✅ Mask management
-- ✅ Membership management
-- ✅ Invitation code system
+✅ All original features from ChatGPT-Next-Web
+✅ Midjourney Imagine — Generate images from prompts
+✅ Midjourney Upscale — Upscale generated images
+✅ Midjourney Variation — Create image variations
+✅ Midjourney Describe — Describe images using AI
+✅ Midjourney Blend — Blend multiple images
+✅ Midjourney Image Prompt — Use an image as prompt base
+✅ Drawing progress percentage and real-time image display
+✅ User registration
+✅ Email login
+✅ QR code login
+✅ Integration with Stable Diffusion image generation
+✅ Mask management
+✅ Membership management
+✅ Invitation code system
 
 ## Parameter Description
 ### MIDJOURNEY_PROXY_URL
