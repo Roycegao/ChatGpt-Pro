@@ -29,11 +29,11 @@ Based on [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) + [Chat
 - [x] Drawing progress percentage and real-time image display
 - [x] User registration
 - [x] Email login
-- [ ] QR code login
-- [ ] Integration with Stable Diffusion image generation
-- [ ] Mask management
-- [ ] Membership management
-- [ ] Invitation code system
+- [x] QR code login
+- [x] Integration with Stable Diffusion image generation
+- [x] Mask management
+- [x] Membership management
+- [x] Invitation code system
 
 ## Parameter Description
 ### MIDJOURNEY_PROXY_URL
