@@ -2,7 +2,7 @@
 
 <h1 align="center">🍭 ChatGPT-Pro</h1>
 
-Based on [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) + [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)开发， this project has been extended to include features such as registration, email login, QR code login, membership management, mask management, and Stable Diffusion (SD) image generation.
+Based on [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) + [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney)， this project has been extended to include features such as registration, email login, QR code login, membership management, mask management, and Stable Diffusion (SD) image generation.
 
 [QQ Group Chat](https://gitee.com/981743898/ChatGPT-PRO/issues/I7VUZB) | [💥Demo Site](https://ai.codeok.cn)
 
